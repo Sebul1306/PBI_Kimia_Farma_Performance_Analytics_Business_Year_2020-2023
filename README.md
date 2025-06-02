@@ -1,8 +1,7 @@
 # PBI_Kimia_Farma_Performance_Analytics_Business_Year_2020-2023
 
-Proyek ini merupakan program dari Project Based Internship (PBI) yang menggunakan dataset kimia farma. Proyek ini dikembangkan sebagai bagian dari program Project Based Internship – Rakamin Academy yang bertujuan mengasah kemampuan analisis data berbasis proyek nyata.
+Proyek ini merupakan program dari Project Based Internship (PBI) yang menggunakan dataset kimia farma. Proyek ini dikembangkan sebagai bagian dari program Project Based Internship – Rakamin Academy yang bertujuan mengasah kemampuan analisis data berbasis proyek nyata. Tujuan dari proyek ini adalah untuk memahami pola dan karakteristik penjualan berdasarkan data seperti transaksi, inventory, kota, cabang, d.s.b.
 
-Tujuan dari proyek ini adalah untuk memahami pola dan karakteristik penjualan berdasarkan data seperti transaksi, inventory, kota, cabang, d.s.b.
 ---
 
 ## 🎯 Tujuan Proyek  
