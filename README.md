@@ -26,15 +26,6 @@ Proyek ini merupakan program dari Project Based Internship (PBI) yang menggunaka
 
 ---
 
-## 📁 Struktur Proyek  
-├── Tugas DSF 39 COVID.ipynb       # Notebook analisis EDA
-├── PPT Tugas DSF 39 Covid         # File presentasi (slide)
-├── Hasil Analisis Covid.xlsx      # Dataset sudah diperbaiki
-├── Data Covid.xlsx                # Dataset mentah
-└── README.md                      # Dokumentasi proyek ini
-
----
-
 ## 📷 Contoh Visualisasi  
 Visualisasi yang dihasilkan dalam proyek ini antara lain:
 - Perbandingan total transaksi per provinsi
@@ -46,8 +37,8 @@ Visualisasi yang dihasilkan dalam proyek ini antara lain:
 
 ## 📄 Cara Mengakses Proyek  
 Kamu dapat melihat hasil lengkap dari proyek ini melalui tautan berikut:  
-- 📘 [Notebook Analisis COVID-19](https://github.com/Sebul1306/DSF39-EDA-Covid/blob/main/Tugas%20DSF%2039%20COVID.ipynb)
-- 📽️ [PPT EDA COVID-19](https://github.com/Sebul1306/DSF39-EDA-Covid/blob/main/PPT%20Tugas%20DSF%2039%20Covid.pdf)
+- 📘 [Dashboard ](https://lookerstudio.google.com/reporting/0d2ddbe0-5ae1-452f-9673-0b58e7a04dfa)
+- 📽️ [PPT](https://docs.google.com/presentation/d/1e7bYgG_Lb3VxyLCrWq3vSY7xLUKraat-/edit?usp=sharing&ouid=104810256951503481018&rtpof=true&sd=true)
 
 ---
 
